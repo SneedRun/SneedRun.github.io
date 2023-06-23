@@ -57,9 +57,9 @@ input{
 }
 
 #difficulty img{
-  width: 30vw;
-  height: 30vw;
-  margin-left: 25vw;
+  width: 12vw;
+  height: 12vw;
+  margin-left: 35vw;
 }
 
 #informations img{
@@ -182,5 +182,11 @@ input{
     width: 18vw;
     -ms-transform: translate(120%, 0%);
     transform: translate(120%, 0%);
+  }
+
+  #difficulty img{
+    width: 30vw;
+    height: 30vw;
+    margin-left: 27vw;
   }
 }
